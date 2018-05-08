@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_light"
+    tools:context="pl.krakow.nordic.szarki.AllActivity">
+
+    <SearchView
+        android:id="@+id/search_bar"
+        android:layout_alignParentTop="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:queryHint="@string/search">
+
+
+    </SearchView>
+
+    <ListView
+        android:id="@+id/listViewAll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_below="@+id/search_bar"
+        android:layout_centerHorizontal="true">
+
+    </ListView>
+
+
+</RelativeLayout>

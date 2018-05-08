@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sharki</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_unit">Unit</string>
+    <string name="title_activity_wordlist">Lista Słów</string>
+    <string name="poka_wyraz">Pokaż wyraz</string>
+    <string name="zamie_kolejno">Zamień kolejność</string>
+    <string name="poka_liste_s_w">Pokaż liste słów!</string>
+    <string name="losowo">Losowość</string>
+    <string name="unit_one">Unit One</string>
+    <string name="unit_two">Unit Two</string>
+    <string name="unit_three">Unit Three</string>
+    <string name="all">ściąga z szukajką</string>
+    <string name="title_activity_all">Ściąga z Szukajką</string>
+    <string name="search">Search</string>
+    <string name="unit_four">Unit Four</string>
+    <string name="unit_five">Unit Five</string>
+    <string name="unit_six">Unit Six</string>
+    <string name="unit_seven">Unit Seven</string>
+</resources>
